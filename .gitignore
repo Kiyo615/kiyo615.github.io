@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
+
+# Logs
+*.log
+
+# Node dependencies, only if you ever add them later
+node_modules/
+
+# Build output, only if you ever add a build process later
+dist/
+build/
